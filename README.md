@@ -1,3 +1,8 @@
+# Motivação
+Este projeto criado como estudo de caso para realizar uma prova de conceito, onde em um cliente foi solicitado que de acordo com a classificação de setor do operador que se logar deverá ser alterado as cores do tema. Para simular esse desafio será adicionado no service um random que deverá aleatóriamente selecionar um tema a cada vez que a tela carregar. No sistema de verdade isso será de responsabilidade da API que deverá retornar nos dados do operador o setor, para que então  a UI montada de acordo com essas implementações altere o tema dinamicamente.
+
+Então mãos a obra ;)
+
 # MaterialTheme
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.2.
