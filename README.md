@@ -3,6 +3,17 @@ Este projeto criado como estudo de caso para realizar uma prova de conceito, ond
 
 Então mãos a obra ;)
 
+# Montagem do ambiente
+
+Caso esteja iniciando os estudos no angular siga os passos na ordem.
+
+1. Abra o terminal (Terminal, Prompt-DOS, Node-Prompt, GitBash, Windows-Terminal, etc...) e acesse uma pasta de sua preferência.
+2. $ git clone https://github.com/atrombetone/material-theme.git
+3. cd material-theme
+4. npm install
+5. ng serve --open
+6. Após o comando acima completar o processo o navegador deverá ser aberto automáticamente, caso não ocorra isso acesse seu navegador prefêrido e acesse a url http://localhost:4200
+
 # MaterialTheme
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.2.
